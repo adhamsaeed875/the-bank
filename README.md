@@ -1,2 +1,2 @@
 # the-bank
-Bank system in first year in my faculty
+Bank system in the first year in my faculty
